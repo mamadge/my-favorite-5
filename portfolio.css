@@ -1,0 +1,92 @@
+body{
+  text-align: center;
+  background:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  background-repeat: no-repeat;
+    
+}
+h1{
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #D8CE29;
+  text-align: center;
+}
+#play{
+  padding:38px;
+  font-size:18px;
+  font-style:italic;
+  color:#0039a6;
+  
+}
+.profile{
+    width: 175px;
+    margin-bottom: 20px;
+  border-radius: 50%;
+}
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline 
+}
+#favorite player{
+    font-size: 100px;
+    
+    
+    
+}
+.picture{
+    
+    width: 900px;
+}
+.button{
+    
+    background-color: aquamarine;
+    color:antiquewhite;
+    font-size:18px;
+    
+}
+#picture{
+    width:200px;
+    height:250px;
+    border: solid;
+    border-style:dashed;
+    border-color: darkgray;
+    border-radius: 20px;
+    
+}
+#picture1{
+    width:200px;
+    height:250px;
+    border: solid;
+    border-style:dashed;
+    border-color: darkgray;
+    border-radius: 20px;
+    
+}
+img:hover{
+    transform: scale(0.9)
+    
+    
+}
+#map{
+    width: 1500px;
+    height: 900px;
+    
+    
+}
+#contact{
+    background-color: red;
+    
+}
